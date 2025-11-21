@@ -1,0 +1,30 @@
+[
+  {
+    "ID": "1",
+    "Name": "Alice",
+    "Age": "25",
+    "JoinDate": "5/10/2021",
+    "Score": "0.88"
+  },
+  {
+    "ID": "2",
+    "Name": "Bob",
+    "Age": "None Provided",
+    "JoinDate": "6/15/2021",
+    "Score": "0.9"
+  },
+  {
+    "ID": "3",
+    "Name": "None Provided",
+    "Age": "30",
+    "JoinDate": "7/1/2021",
+    "Score": "Invalid Input"
+  },
+  {
+    "ID": "4",
+    "Name": "Charlie",
+    "Age": "40",
+    "JoinDate": "Invalid input",
+    "Score": "0.95"
+  }
+]

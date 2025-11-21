@@ -1,0 +1,5 @@
+ID,Name,Age,JoinDate,Score
+1,Alice,25,5/10/2021,0.88
+2,Bob,None Provided,6/15/2021,0.9
+3,None Provided,30,7/1/2021,Invalid Input
+4,Charlie,40,Invalid input,0.95
